@@ -1,0 +1,473 @@
+CRITICAL - 2023-09-06 13:15:44 --> syntax error, unexpected 'da' (T_STRING), expecting '('
+in APPPATH\Models\Parkir.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\app\\Models\\Parkir.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Parkir')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Parkir')
+ 4 APPPATH\Controllers\ParkirController.php(12): spl_autoload_call('App\\Models\\Parkir')
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+CRITICAL - 2023-09-06 13:15:46 --> syntax error, unexpected 'da' (T_STRING), expecting '('
+in APPPATH\Models\Parkir.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\app\\Models\\Parkir.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Parkir')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Parkir')
+ 4 APPPATH\Controllers\ParkirController.php(12): spl_autoload_call('App\\Models\\Parkir')
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+CRITICAL - 2023-09-06 13:15:47 --> syntax error, unexpected 'da' (T_STRING), expecting '('
+in APPPATH\Models\Parkir.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\app\\Models\\Parkir.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Parkir')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Parkir')
+ 4 APPPATH\Controllers\ParkirController.php(12): spl_autoload_call('App\\Models\\Parkir')
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+CRITICAL - 2023-09-06 13:15:47 --> syntax error, unexpected 'da' (T_STRING), expecting '('
+in APPPATH\Models\Parkir.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\app\\Models\\Parkir.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Parkir')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Parkir')
+ 4 APPPATH\Controllers\ParkirController.php(12): spl_autoload_call('App\\Models\\Parkir')
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+CRITICAL - 2023-09-06 13:15:47 --> syntax error, unexpected 'da' (T_STRING), expecting '('
+in APPPATH\Models\Parkir.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\app\\Models\\Parkir.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Parkir')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Parkir')
+ 4 APPPATH\Controllers\ParkirController.php(12): spl_autoload_call('App\\Models\\Parkir')
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+CRITICAL - 2023-09-06 13:16:16 --> syntax error, unexpected 'da' (T_STRING), expecting '('
+in APPPATH\Models\Parkir.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\app\\Models\\Parkir.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Parkir')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Parkir')
+ 4 APPPATH\Controllers\ParkirController.php(12): spl_autoload_call('App\\Models\\Parkir')
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+CRITICAL - 2023-09-06 13:17:44 --> syntax error, unexpected 'da' (T_STRING), expecting '('
+in APPPATH\Models\Parkir.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\app\\Models\\Parkir.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Parkir')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Parkir')
+ 4 APPPATH\Controllers\ParkirController.php(12): spl_autoload_call('App\\Models\\Parkir')
+ 5 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+ERROR - 2023-09-06 13:19:40 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-09-06 13:19:40 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+ERROR - 2023-09-06 13:19:41 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-09-06 13:19:41 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+ERROR - 2023-09-06 13:19:44 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-09-06 13:19:44 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+ERROR - 2023-09-06 13:27:19 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-09-06 13:27:19 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+ERROR - 2023-09-06 13:27:20 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-09-06 13:27:20 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+ERROR - 2023-09-06 13:27:20 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-09-06 13:27:20 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+ERROR - 2023-09-06 13:27:21 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-09-06 13:27:21 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+ERROR - 2023-09-06 13:27:22 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-09-06 13:27:22 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')
+ERROR - 2023-09-06 13:27:22 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-09-06 13:27:22 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ParkirController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\ParkirController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ParkirController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KULIAH\\FRAMEWORK PROGRAMMING\\CI4\\public\\index.php')

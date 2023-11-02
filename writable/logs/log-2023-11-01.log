@@ -1,0 +1,617 @@
+CRITICAL - 2023-11-01 11:45:18 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/Mhs/Mhs::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/Mhs/Mhs::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('mhs')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('mhs')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 11:46:42 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/Mhs/Mhs::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/Mhs/Mhs::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('mhs')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('mhs')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 11:47:13 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/Mhs\Mhs::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/Mhs\\Mhs::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('mhs')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('mhs')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 11:47:19 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/Mhs/Mhs::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/Mhs/Mhs::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('mhs')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('mhs')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 11:47:27 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\/Mhs\Mhs::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\/Mhs\\Mhs::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('mhs')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('mhs')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 11:47:52 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\Mhs/Mhs::index"
+in SYSTEMPATH\Router\Router.php on line 473.
+ 1 SYSTEMPATH\Router\Router.php(473): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\Mhs/Mhs::index')
+ 2 SYSTEMPATH\Router\Router.php(181): CodeIgniter\Router\Router->checkRoutes('mhs')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('mhs')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 12:46:28 --> Invalid file: "index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\index.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('index', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 12:59:41 --> Class 'app\Models\Member' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 12:59:43 --> Class 'app\Models\Member' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 12:59:44 --> Class 'app\Models\Member' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 12:59:50 --> Class 'app\Models\Member' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:01:01 --> Class 'app\Models\Member' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:07:49 --> Class 'app\Models\Member' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:12:32 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:12:41 --> Class 'App\Models\ParkirModels' not found
+in APPPATH\Controllers\Data\Dataparkir.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:15:00 --> Call to undefined method App\Models\ParkirModels::getData
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\Data\Dataparkir.php(14): CodeIgniter\Model->__call('getData', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-11-01 13:15:36 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'lp3i' in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'lp3i', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\Data\Dataparkir.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'lp3i' in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\Data\Dataparkir.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-11-01 13:15:36 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'lp3i'
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Data\Dataparkir.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:16:34 --> Call to undefined method App\Models\ParkirModels::getData
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\Data\Dataparkir.php(14): CodeIgniter\Model->__call('getData', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-11-01 13:17:21 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'lp3i' in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'lp3i', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\Data\Dataparkir.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'lp3i' in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\Data\Dataparkir.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-11-01 13:17:21 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'lp3i'
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Data\Dataparkir.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:21:00 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:22:23 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:25:01 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:25:02 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:25:02 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:25:47 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:25:48 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:26:43 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:26:48 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:26:51 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:27:33 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:27:33 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:27:33 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:27:34 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:27:34 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:27:34 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 13:31:33 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+ERROR - 2023-11-01 15:29:22 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it.
+ in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'ase56', 3306, '', 0)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\Data\Dataparkir.php(13): CodeIgniter\BaseModel->findAll()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it.
+ in D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\app\Controllers\Data\Dataparkir.php(13): CodeIgniter\BaseModel->findAll()
+#6 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+#7 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+#8 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Workspace\KULIAH\FRAMEWORK PROGRAMMING\CI4\system\Commands\Server\rewrite.php(47): require_once('D:\\Workspace\\KU...')
+#11 {main}
+CRITICAL - 2023-11-01 15:29:22 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `parkir`', [], false)
+ 3 SYSTEMPATH\Model.php(240): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Data\Dataparkir.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 15:29:51 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:01:38 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:03:03 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:05:46 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:05:53 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:09:30 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:11:33 --> Cannot declare class App\Controllers\Data\MemberModels because the name is already in use
+in APPPATH\Controllers\Data\Datamember.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-01 16:12:13 --> Call to undefined method App\Controllers\Data\Datamember::findAll()
+in APPPATH\Controllers\Data\Datamember.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:12:15 --> Call to undefined method App\Controllers\Data\Datamember::findAll()
+in APPPATH\Controllers\Data\Datamember.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:13:29 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:14:37 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:14:58 --> Class 'App\Controllers\Data\MemberModel' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:15:09 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:15:48 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:15:49 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:16:16 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:16:17 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:16:18 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:16:33 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:26:02 --> Undefined index: nama
+in APPPATH\Views\parkir.php on line 41.
+ 1 APPPATH\Views\parkir.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: nama', 'APPPATH\\Views\\parkir.php', 41, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\parkir.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('parkir', [], true)
+ 5 APPPATH\Controllers\Data\Dataparkir.php(16): view('parkir', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:28:17 --> Undefined index: no_plat
+in APPPATH\Views\parkir.php on line 43.
+ 1 APPPATH\Views\parkir.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: no_plat', 'APPPATH\\Views\\parkir.php', 43, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\parkir.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('parkir', [], true)
+ 5 APPPATH\Controllers\Data\Dataparkir.php(16): view('parkir', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:28:19 --> Undefined index: no_plat
+in APPPATH\Views\parkir.php on line 43.
+ 1 APPPATH\Views\parkir.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: no_plat', 'APPPATH\\Views\\parkir.php', 43, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\parkir.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('parkir', [], true)
+ 5 APPPATH\Controllers\Data\Dataparkir.php(16): view('parkir', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:32:41 --> syntax error, unexpected '<'
+in APPPATH\Views\parkir.php on line 51.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('parkir', [], true)
+ 3 APPPATH\Controllers\Data\Dataparkir.php(16): view('parkir', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:32:43 --> syntax error, unexpected '<'
+in APPPATH\Views\parkir.php on line 51.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('parkir', [], true)
+ 3 APPPATH\Controllers\Data\Dataparkir.php(16): view('parkir', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Dataparkir->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Dataparkir))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:43:16 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:44:43 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:54:28 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 16:59:32 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 17:01:39 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-01 17:04:35 --> Class 'app\Models\MemberModels' not found
+in APPPATH\Controllers\Data\Datamember.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
