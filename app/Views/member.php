@@ -18,9 +18,21 @@
 
             <div class="card">
               <div class="card-header">
-                <h3 class="card-title">DataTable Member</h3>
-                <a href="<?php echo base_url('/member/create');?>" class="btn btn-primary float-right">
-                <i class="fa fa-plus"></i>&nbsp;Tambah Data</a>
+                <h3 class="card-title" style="margin-bottom : 10px"><b>DataTable Member</b></h3>
+                <div class="dt-buttons btn-group flex-wrap">
+                  <a class="btn btn-primary btn-tambah" href="<?php echo base_url('/member/create');?>">
+                    <i class="fa fa-plus"></i>&nbsp; Tambah Data
+                  </a>
+                  <a class="btn btn-secondary buttons-excel" href="#Exel">
+                    <i class="fa fa-print"></i>&nbsp; To Exel
+                  </a>
+                  <a class="btn btn-secondary buttons-pdf" href="#PDF">
+                    <i class="fa fa-print"></i>&nbsp; To PDF
+                  </a>
+                  <a class="btn btn-secondary buttons-print" href="#Print">
+                    <i class="fa fa-print"></i>&nbsp; Print Out
+                  </a>
+                </div>
               </div>
               
               <!-- /.card-header -->
@@ -46,7 +58,14 @@
                         <td><?= $m['tgl_masuk'] ?></td>
                         <td><?= $m['tgl_keluar'] ?></td>
                         <td><?= $m['status'] ?></td>
-                        <td><a href="<?= base_url('/admin/deleteMember/' .$m['id']) ?>" onclick="return confirm('Apakah Anda yakin akan menghapus data ini?');">Hapus</a></td>
+                        <td class="table-actions">
+                          <a style="margin-right: 15px;" class="btn btn-info btn-sm" href="<?= base_url('/member/updateMember/' .$m['id']) ?>">
+                              <i class="fas fa-pencil-alt"></i>
+                          </a>
+                          <a class="btn btn-danger btn-sm" href="<?= base_url('/member/deleteMember/' .$m['id']) ?>" onclick="return confirm('Apakah Anda yakin akan menghapus data ini?');">
+                              <i class="fas fa-trash"></i>
+                          </a>
+                        </td>
                       </tr>
                     <?php endforeach; ?>
                   </tbody>

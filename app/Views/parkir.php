@@ -18,7 +18,7 @@
               <div class="card-header">
                 <h3 class="card-title" style="margin-bottom : 10px"><b>DataTable Parkir</b></h3>
                 <div class="dt-buttons btn-group flex-wrap">
-                  <a class="btn btn-primary btn-tambah" href="<?php echo base_url('/member/create');?>">
+                  <a class="btn btn-primary btn-tambah" href="<?php echo base_url('/parkir/create');?>">
                     <i class="fa fa-plus"></i>&nbsp; Tambah Data
                   </a>
                   <a class="btn btn-secondary buttons-excel" href="#Exel">
@@ -61,12 +61,13 @@
                         <td><?= $p['lama'] ?></td>
                         <td><?= $p['biaya'] ?></td>
                         <td class="table-actions">
-                          <a style="margin-right: 15px;" class="btn btn-info btn-sm" href="<?= base_url('/admin/updateParkir/' .$p['id']) ?>">
+                          <a style="margin-right: 15px;" class="btn btn-info btn-sm" href="<?= base_url('/parkir/updateParkir/' .$p['id']) ?>">
                               <i class="fas fa-pencil-alt"></i>
                           </a>
-                          <a class="btn btn-danger btn-sm" href="<?= base_url('/admin/deleteParkir/' .$p['id']) ?>" onclick="return confirm('Apakah Anda yakin akan menghapus data ini?');">
+                          <a class="btn btn-danger btn-sm" href="<?= base_url('/parkir/deleteParkir/' .$p['id']) ?>" onclick="return confirm('Apakah Anda yakin akan menghapus data ini?');">
                               <i class="fas fa-trash"></i>
                           </a>
+                        </td>
                       </tr>
                     <?php endforeach; ?>
                   </tbody>

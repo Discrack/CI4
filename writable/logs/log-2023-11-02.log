@@ -172,3 +172,15 @@ in APPPATH\Views\member.php on line 44.
  8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
 10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-11-02 05:07:59 --> Undefined variable: p
+in APPPATH\Views\member.php on line 62.
+ 1 APPPATH\Views\member.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: p', 'APPPATH\\Views\\member.php', 62, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\member.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('member', [], true)
+ 5 APPPATH\Controllers\Data\Datamember.php(16): view('member', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Data\Datamember->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Data\Datamember))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
