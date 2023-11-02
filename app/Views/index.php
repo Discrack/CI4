@@ -25,7 +25,7 @@
                 
               <h1>Welcome, this is home page!</h1>
               <p>
-                Project ini dikembangkan dengan tujuan pembelajaran bagi saya sendiri dan semoga bermanfaat bagi semua orang.
+                Project ini dikembangkan dengan tujuan pembelajaran bagi saya sendiri dan semoga bermanfaat.
               
               </p>
 

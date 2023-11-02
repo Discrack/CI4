@@ -8,6 +8,6 @@ class Createmember extends BaseController
 {
     public function index()
     {
-        echo 'create member bisa di akses';
+        echo 'create member bisa di akses, tinggal bikin view aja';
     }
 }

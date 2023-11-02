@@ -30,7 +30,7 @@
                     <i class="fa fa-print"></i>&nbsp; To PDF
                   </a>
                   <a class="btn btn-secondary buttons-print" href="#Print">
-                    <i class="fa fa-download"></i>&nbsp; Print Out
+                    <i class="fa fa-upload"></i>&nbsp; Print Out
                   </a>
                 </div>
               </div>
@@ -45,7 +45,7 @@
                     <th>Tanggal Masuk</th>
                     <th>Tanggal Keluar</th>
                     <th>Status</th>
-                    <th>Aksi</th>
+                    <th>Menu</th>
                   </tr>
                   </thead>
                   
