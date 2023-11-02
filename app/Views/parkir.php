@@ -16,12 +16,20 @@
 
             <div class="card">
               <div class="card-header">
-                <h3 class="card-title" style="margin-bottom : 10px">DataTable Parkir</h3>
+                <h3 class="card-title" style="margin-bottom : 10px"><b>DataTable Parkir</b></h3>
                 <div class="dt-buttons btn-group flex-wrap">
-                  <a class="btn btn-secondary buttons-excel" href="#"><span>Excel</span></a>
-                  <a class="btn btn-secondary buttons-pdf" href="#"><span>PDF</span></a>
-                  <a class="btn btn-secondary buttons-print" href="#"><span>Print</span></a>
-                  <a class="btn btn-primary buttons-tambah" href="#"><span>Tambah Data</span></a>
+                  <a class="btn btn-primary btn-tambah" href="<?php echo base_url('/member/create');?>">
+                    <i class="fa fa-plus"></i>&nbsp; Tambah Data
+                  </a>
+                  <a class="btn btn-secondary buttons-excel" href="#Exel">
+                    <i class="fa fa-print"></i>&nbsp; To Exel
+                  </a>
+                  <a class="btn btn-secondary buttons-pdf" href="#PDF">
+                    <i class="fa fa-print"></i>&nbsp; To PDF
+                  </a>
+                  <a class="btn btn-secondary buttons-print" href="#Print">
+                    <i class="fa fa-print"></i>&nbsp; Print Out
+                  </a>
                 </div>
               </div>
               <!-- /.card-header -->

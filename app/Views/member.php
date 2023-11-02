@@ -19,10 +19,8 @@
             <div class="card">
               <div class="card-header">
                 <h3 class="card-title">DataTable Member</h3>
-                <a href="<?php echo base_url('/member/create');?>" class="btn btn-primary float-right"><i class
-                <a href="<?php echo base_url('/member/add');?>" style="float: right;" class="btn btn-primary
-                "><i class="fa fa-plus"></i>&nbsp;Tambah Data</a>
-                </button>
+                <a href="<?php echo base_url('/member/create');?>" class="btn btn-primary float-right">
+                <i class="fa fa-plus"></i>&nbsp;Tambah Data</a>
               </div>
               
               <!-- /.card-header -->
