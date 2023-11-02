@@ -20,7 +20,7 @@
               <div class="card-header">
                 <h3 class="card-title" style="margin-bottom : 10px"><b>DataTable Member</b></h3>
                 <div class="dt-buttons btn-group flex-wrap">
-                  <a class="btn btn-primary btn-tambah" href="<?php echo base_url('/member/create');?>">
+                  <a class="btn btn-primary btn-tambah" href="<?php echo base_url('/member/createMember');?>">
                     <i class="fa fa-plus"></i>&nbsp; Tambah Data
                   </a>
                   <a class="btn btn-secondary buttons-excel" href="#Exel">

@@ -31,10 +31,17 @@ $routes->set404Override();
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/profile', 'Profile::index');
+
 $routes->get('/member', 'Data\Datamember::index');
 $routes->get('/parkir', 'Data\Dataparkir::index');
+
 $routes->get('/reportmember', 'Report\ReportMember::index');
 $routes->get('/reportparkir', 'Report\ReportParkir::index');
+
+$routes->get('/parkir/createParkir', 'Create\Createparkir::index');
+$routes->get('/member/createMember', 'Create\Createmember::index');
+
+
 
 $routes->get('/mhs', 'Mhs\Mhs::index');
 $routes->get('/masterdata', 'MasterData\MasterData::index');
