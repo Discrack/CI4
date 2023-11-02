@@ -37,7 +37,7 @@
 
               <div class="">
                       <div class="form-group">
-                        <label>ID Member</label>
+                        <label>ID Member (Auto Increment)</label>
                         <input type="text" class="form-control" placeholder="IDM-001" disabled="">
                       </div>
                     </div>
